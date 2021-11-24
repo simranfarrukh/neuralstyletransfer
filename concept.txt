@@ -1,0 +1,5 @@
+Define two distances: Dc for content and Ds for style.
+Dc measures how different the content is between two images.
+Ds measures the style difference between two images.
+Then create a third imge and transform it to minimize the Dc with
+content image (anime.jpg) and the Ds with style image (claudemonet.jpg)

@@ -1,0 +1,7 @@
+Import packages and select a device
+Load the images
+Loss functions:
+    Content loss
+    Style loss
+Import a pre-trained model
+Gradient descent
