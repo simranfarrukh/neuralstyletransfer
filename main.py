@@ -1,3 +1,8 @@
+# Neural Style Transfer using PyTorch
+# Tutorial by Alexis Jacq (https://alexis-jacq.github.io/)
+# @author Simran
+# @version 1.0
+
 # >> required imports >>
 from __future__ import print_function
 
