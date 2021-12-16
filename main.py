@@ -6,14 +6,17 @@
 # >> required imports >>
 from __future__ import print_function
 
+# for applications such as computer vision and natural language processing
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 
+# adds support for opening, manipulating, and saving many different image file formats
 from PIL import Image
 import matplotlib.pyplot as plt
 
+# utilities for efficient Image and Video transformations, some commonly used pre-trained models, and some datasets
 import torchvision.transforms as transforms
 import torchvision.models as models
 
